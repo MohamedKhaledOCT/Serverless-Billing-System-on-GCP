@@ -1,4 +1,3 @@
-# Serverless-Billing-System-on-GCP
 ```markdown
 # Pet Theory - Serverless Billing System 🐾
 ![lab2](https://github.com/user-attachments/assets/8be653a7-120d-4118-bc5a-1d85756a24b9)
