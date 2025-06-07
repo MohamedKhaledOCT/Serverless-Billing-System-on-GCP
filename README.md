@@ -5,6 +5,9 @@
 ![Microservices](https://img.shields.io/badge/Pattern-Microservices-green)
 
 A complete migration from monolithic to serverless architecture for a veterinary billing system using Google Cloud Platform.
+![lab3](https://github.com/user-attachments/assets/45f4414a-1bf9-4ac3-8b2a-44dd52b1898a)
+![Lab3-2](https://github.com/user-attachments/assets/f756541c-881f-440f-ab72-a2fbfe4aff09)
+
 
 ## 📌 Project Overview
 
@@ -24,10 +27,4 @@ This project demonstrates:
 | Security          | IAM, Service Accounts        |
 | Infrastructure    | GCP CLI (gcloud)             |
 
-## 🚀 Deployment Steps
 
-### 1. Setup Environment
-```bash
-gcloud config set project $(gcloud projects list --format='value(PROJECT_ID)' --filter='qwiklabs-gcp')
-gcloud config set run/region us-east4
-gcloud config set run/platform managed
